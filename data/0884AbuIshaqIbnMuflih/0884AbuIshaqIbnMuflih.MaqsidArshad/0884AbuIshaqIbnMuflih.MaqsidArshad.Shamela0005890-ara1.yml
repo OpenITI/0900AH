@@ -6,7 +6,10 @@
 80#VERS#LINKS####: https://waqfeya.com/book.php?bid=11148
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Good correspondence, all biographical entries
-    numbered. Random entries checked against printed edition and all in
-    order.
+        numbered. Random entries checked against printed edition and all in
+        order.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-10-10
-90#VERS#ISSUES###: PAGINATION
+90#VERS#ISSUES###: PAGINATION, PRIMARY_VERSION, CLEANED_VERSION

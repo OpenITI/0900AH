@@ -6,5 +6,8 @@
 80#VERS#LINKS####: https://archive.org/details/koknoz/konoz1/
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: The text has a rather complicated structure since there is no border between biographies/obituaries and the events or toponyms. So, they should be regarded with care. I tagged everything as far as I could. 2. There is an appendix at the end of the text which is a Qasida published separately and is attached to the text by the editor since it was most probably in one of the manuscripts of this text that the editor did not have access to (see the footnote in the PDF page 2/345).
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2023-03-29
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION

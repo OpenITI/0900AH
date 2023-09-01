@@ -6,10 +6,13 @@
 80#VERS#LINKS####: https://archive.org/details/alfirdwsiy2018_gmail_3840
 90#VERS#ANNOTATOR: HRH
 90#VERS#COMMENT##: Text provided by the ERC Project
-    "The Mamlukisation of the Mamluk Sultanate"
-    (MMS, PI: Jo Van Steenbergen).
-    OCR: Calfa
-    Text processed by Manhal Makhoul MMS-II.
-   NOTE OF THE ANNOTATOR (HRH): Based on what the editor writes in his introduction (page 23), the appendix at the end of the text is written by the author and should not be split as a separate text, as far as I can understand.
+        "The Mamlukisation of the Mamluk Sultanate"
+        (MMS, PI: Jo Van Steenbergen).
+        OCR: Calfa
+        Text processed by Manhal Makhoul MMS-II.
+       NOTE OF THE ANNOTATOR (HRH): Based on what the editor writes in his introduction (page 23), the appendix at the end of the text is written by the author and should not be split as a separate text, as far as I can understand.
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2023-03-08
-90#VERS#ISSUES###: NO_MAJOR_ISSUES
+90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
