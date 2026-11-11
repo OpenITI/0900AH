@@ -13,5 +13,7 @@
     https://raw.githubusercontent.com/OpenITI/0900AH/pre-
     clean/data/0898NurDinJami/0898NurDinJami.FawaidDiyaiyya/0898NurDinJami.FawaidDiyaiyya.ShamAY0037081-ara1
     PV removed further editorial elements.
+    The text file contains page numbers in OpenITI and `[vol/ page]` format,
+    and folio numbers in `/folio/side` format.
 90#VERS#DATE#####: YYYY-MM-DD
-90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION, PAGE_NUMBERS
